@@ -37,5 +37,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_

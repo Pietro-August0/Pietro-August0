@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Pietro Augusto <br>Sou um estudante da área de computação na instituição <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png"></h2>
+<h2 align="left">Olá 👋!<br> Meu nome é Pietro Augusto <br>Sou um estudante da área de computação na instituição <img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png"></h2>
 
 ###
 

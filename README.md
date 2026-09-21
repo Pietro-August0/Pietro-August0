@@ -1,7 +1,13 @@
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:add8e6,50:2F539B,100:add8e6&height=230&section=header&text=PIETRO%20AUGUSTO&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&" width="100%">
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=FFFFF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE+%E2%9C%A6;WELCOME+TO+MY+PROFILE;DEVELOPER+IN+TRAINING;LEARNING+%E2%80%A2+BUILDING+%E2%80%A2+EVOLVING" alt="Typing Animation">
+
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph.svg">

@@ -231,43 +231,6 @@ Conta com catálogo, galerias, WhatsApp, Google Maps, acessibilidade, responsivi
 
 </table>
 
----
-
-<!-- ===================== LEARNING ===================== -->
-
-## 🧠 `currently-learning/`
-
-```text id="5vbz8d"
-Software Engineering
-│
-├── 🌐 Front-end
-│   ├── React
-│   ├── TypeScript
-│   └── Tailwind CSS
-│
-├── ⚙️ Back-end
-│   ├── Node.js
-│   ├── Express
-│   └── REST APIs
-│
-├── 🗄️ Database
-│   ├── PostgreSQL
-│   └── Prisma ORM
-│
-├── 🔌 IoT
-│   ├── Arduino
-│   ├── C++
-│   └── Sensores
-│
-└── 🧩 Software Engineering
-    ├── Arquitetura
-    ├── Git & GitHub
-    ├── Clean Code
-    └── Boas práticas
-```
-
----
-
 <!-- ===================== CONTACT ===================== -->
 
 ## 🌐 `connect/`

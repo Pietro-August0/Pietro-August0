@@ -44,7 +44,7 @@
     "location": {
                   "City": "Cotia",
                   "DDD": 11,
-                  "Country": Brasil
+                  "Country": "Brasil"
                 }, 
     "role": "Software Engineer in progress"
   },

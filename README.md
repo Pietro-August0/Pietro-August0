@@ -41,7 +41,11 @@
     "name": "Pietro Augusto",
     "username": "Pietro-August0",
     "age": 17,
-    "location": "Cotia, SP 🇧🇷",
+    "location": {
+                  "City": "Cotia",
+                  "DDD": 11,
+                  "Country": Brasil
+                }, 
     "role": "Software Engineer in progress"
   },
 

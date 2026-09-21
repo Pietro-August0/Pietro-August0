@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="./header-readme.png" width="100%" alt="Pietro Augusto — Software Engineer in progress"/>
 
 <br>
 
@@ -54,7 +53,6 @@
     "IoT"
   ],
 
-  "coffee": true,
   "bugs": "sometimes",
   "learning": "always",
   "status": "building cool stuff..."
@@ -65,7 +63,7 @@
 
 <!-- ===================== STACK ===================== -->
 
-## ⚡ `tech-stack/`
+##  `tech-stack/`
 
 <div align="center">
 
@@ -97,7 +95,7 @@
 
 <!-- ===================== PROJECTS ===================== -->
 
-## 🚀 `projects/`
+##  `projects/`
 
 <table>
 
@@ -105,7 +103,7 @@
 
 <td width="50%" valign="top">
 
-### 🅿️ VAGGU
+###  VAGGU
 
 **Smart Parking Management**
 
@@ -129,7 +127,7 @@ Combina gerenciamento de shoppings, andares, setores e vagas com autenticação,
 
 <td width="50%" valign="top">
 
-### 🔄 ETROOC
+###  ETROOC
 
 **Marketplace Escolar**
 
@@ -155,7 +153,7 @@ Possui autenticação, anúncios, interesses, filtros, gerenciamento de produtos
 
 <td width="50%" valign="top">
 
-### 🚗 Angelo Car Center
+###  Angelo Car Center
 
 **Website Comercial**
 
@@ -186,7 +184,7 @@ Possui interface responsiva, galeria de imagens e vídeos, integração com What
 
 <td width="50%" valign="top">
 
-### 🏗️ Casa do Empreiteiro
+###  Casa do Empreiteiro
 
 **Website Institucional**
 
@@ -200,7 +198,9 @@ Conta com catálogo, galerias, WhatsApp, Google Maps, acessibilidade, responsivi
 `Responsive Design` `SEO`
 
 <br>
-
+<a href="https://casadoempreiteiroepis.com.br/">
+  <img src="https://img.shields.io/badge/VER_SITE-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 <a href="https://github.com/Pietro-August0/casa-do-empreiteiro">
   <img src="https://img.shields.io/badge/EXPLORAR_PROJETO-6f42c1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>

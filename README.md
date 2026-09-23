@@ -65,8 +65,7 @@
   ],
 
   "currentlyBuilding": [
-    "VAGGU 🅿️",
-    "ETROOC 🔄"
+    "VAGGU"
   ],
 
   "currentlyLearning": [

@@ -24,10 +24,10 @@
     "username": "Pietro-August0",
     "age": 17,
     "location": {
-                  "City": "Cotia",
-                  "DDD": 11,
-                  "Country": "Brasil"
-                }, 
+      "City": "Cotia",
+      "DDD": 11,
+      "Country": "Brasil"
+    }, 
     "role": "Software Engineer in progress"
   },
 

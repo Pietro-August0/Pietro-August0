@@ -21,12 +21,6 @@
 `< keep learning • keep building />`
 
 </div>
-
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Pietro-August0&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---

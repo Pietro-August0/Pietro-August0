@@ -1,17 +1,32 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-<p>
-  <img align="left" src="./baixados.gif" width="220" alt="Dio">
-  <div align="center">
-    <strong>Pietro</strong>
-    <p>Augusto Soares Taioqui</p>
-  </div> 
-  <img align="right" src="./jotaro_alinhado.gif" width="220" alt="Jotaro">
+
+
+
+
+<div align="center">
+
+  <img src="./baixados.gif" align="left" width="220" alt="Dio">
+  <img src="./jotaro_alinhado.gif" align="right" width="220" alt="Jotaro">
+
+  <br><br>
+
+
+<div align="center">
+
+  <h3> P I E T R O </h3>
+
+  <p>
+    <sub><b>A U G U S T O  ·  S O A R E S  ·  T A I O Q U I</b></sub>
+  </p>
+</div>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=330&lines=Full+Stack+Developer;Building+the+future+with+code;Always+learning+new+things" alt="Typing SVG">
 </p>
 
-<br clear="both">
-<br>
+</div>
 
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph-dark.svg">

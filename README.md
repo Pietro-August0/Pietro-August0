@@ -2,12 +2,18 @@
 
 <div align="center">
 
-<div widht="1000" justify-content="space-between">
-  
-<img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/baixados.gif" alt="JoJo GIF" width="200" />
-<img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/jotaro_invertido_transparente.gif" alt="JoJo GIF" width="140" />
 
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/baixados.gif" alt="JoJo GIF" width="200">
+    </td>
+    <td align="right" width="50%">
+      <img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/jotaro_invertido_transparente.gif" alt="JoJo GIF" width="140">
+    </td>
+  </tr>
+</table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph-dark.svg">

@@ -5,7 +5,7 @@
 <p align="center">
   
 <img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/baixados.gif" alt="JoJo GIF" width="200" />
-<img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/jotaro-flg.gif" alt="JoJo GIF" width="200" />
+<img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/jotaro-flg-ezgif.com-remove-background.gif" alt="JoJo GIF" width="200" />
 
 </p>
 

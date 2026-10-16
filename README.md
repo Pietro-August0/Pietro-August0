@@ -20,10 +20,6 @@
     <sub><b>A U G U S T O  ·  S O A R E S  ·  T A I O Q U I</b></sub>
   </p>
 </div>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=330&lines=Full+Stack+Developer;Building+the+future+with+code;Always+learning+new+things" alt="Typing SVG">
-</p>
-
 </div>
 
 <br clear="both">

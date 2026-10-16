@@ -1,18 +1,12 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
+<p>
+  <img align="left" src="./baixados.gif" width="220" alt="Dio">
+  <img align="right" src="./jotaro_alinhado.gif" width="220" alt="Jotaro">
+</p>
 
-
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/baixados.gif" alt="JoJo GIF" width="200">
-    </td>
-    <td align="right" width="50%">
-      <img src="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/main/jotaro_invertido_transparente.gif" alt="JoJo GIF" width="140">
-    </td>
-  </tr>
-</table>
+<br clear="both">
+<br>
 
 
 <picture>

@@ -2,6 +2,10 @@
 <div align="center">
 <p>
   <img align="left" src="./baixados.gif" width="220" alt="Dio">
+  <div align="center">
+    <strong>Pietro</strong>
+    <p>Augusto Soares Taioqui</p>
+  </div> 
   <img align="right" src="./jotaro_alinhado.gif" width="220" alt="Jotaro">
 </p>
 

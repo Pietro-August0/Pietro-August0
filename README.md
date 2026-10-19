@@ -1,29 +1,5 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-
-
-
-
-<div align="center">
-
-  <img src="./baixados.gif" align="left" width="220" alt="Dio">
-  <img src="./jotaro_alinhado.gif" align="right" width="220" alt="Jotaro">
-
-  <br><br>
-
-
-<div align="center">
-
-  <h3> P I E T R O </h3>
-
-  <p>
-    <sub><b>A U G U S T O  ·  S O A R E S  ·  T A I O Q U I</b></sub>
-  </p>
-</div>
-</div>
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pietro-August0/Pietro-August0/output/pacman-contribution-graph.svg">

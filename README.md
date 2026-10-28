@@ -46,6 +46,7 @@
 
   "currentlyBuilding": [
     "VAGGU"
+    "Projeto-SESI-FLL-2026(ybyrá)"
   ],
 
   "currentlyLearning": [
@@ -66,7 +67,7 @@
 
 <!-- ===================== STACK ===================== -->
 
-##  `tech-stack/`
+##  `tech-stack`
 
 <div align="center">
 
@@ -96,7 +97,7 @@
 
 <!-- ===================== CONTACT ===================== -->
 
-## 🌐 `connect/`
+## 🌐 `connect`
 
 <div align="center">
 
@@ -120,6 +121,6 @@
 
 <div align="center">
 
-### `while (coding) { keepLearning(); }` 👾
+### `while (coding) { keepLearning(); }` 
 
 </div>
